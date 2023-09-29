@@ -1,0 +1,33 @@
+/* Product.css */
+.product-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .product-image {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .product-section {
+    margin-bottom: 20px;
+  }
+  
+  .product-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .product-item {
+    margin-left: 20px;
+  }
+  
